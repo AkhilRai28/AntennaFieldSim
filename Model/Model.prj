@@ -1,0 +1,21 @@
+[Version]
+2
+[ProjectVersion]
+'# MWS Version: Version 2023.4 - May 04 2023 - ACIS 32.0.1 - Learning Edition
+[Author]
+akhil
+[Mesh Cells]
+50,400
+[Mesh Type]
+Hexahedral
+[Last Problem Type]
+High Frequency
+[Last Solver Type]
+HF Time Domain
+[Last Solver Type Abb]
+t
+[Results]
+Time Domain: S-Parameter
+[Modeler Unique ID]
+5:dipole.cst?7722fcd9ab9e0230b7877bb891c19b2b?36531:numberofparameters=0:port=1>mode=1>zre=0>zim=0
+[Comment]
